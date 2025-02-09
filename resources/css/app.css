@@ -5,3 +5,21 @@
 [x-cloak] {
     display: none;
 }
+
+/* Aggiungi transizioni per il cambio tema */
+.transition-colors {
+    transition-property: background-color, border-color, color, fill, stroke;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 150ms;
+}
+
+/* Stili di base per il tema chiaro/scuro */
+:root {
+    --bg-primary: #ffffff;
+    --text-primary: #000000;
+}
+
+.dark {
+    --bg-primary: #1a1a1a;
+    --text-primary: #ffffff;
+}
