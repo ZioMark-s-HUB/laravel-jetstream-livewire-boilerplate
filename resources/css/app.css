@@ -23,3 +23,7 @@
     --bg-primary: #1a1a1a;
     --text-primary: #ffffff;
 }
+
+.duration-3000 {
+    transition-duration: 3000ms;
+}
