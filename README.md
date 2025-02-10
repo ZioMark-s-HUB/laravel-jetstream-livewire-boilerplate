@@ -25,8 +25,8 @@ This boilerplate is **ideal for beginners** who want to avoid spending time on i
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/ZioMark-s-HUB/laravel-jetstream-livewire-boilerplate.git
+   cd laravel-jetstream-livewire-boilerplate
    ```
 
 2. **Install dependencies**  
