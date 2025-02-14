@@ -56,6 +56,11 @@ This boilerplate is **ideal for beginners** who want to avoid spending time on i
    php artisan serve
    ```
 
+7. **Link your storage**
+    ```bash
+    php artisan storage:link
+    ```
+
 ## Configuration
 
 - **Dark Mode Toggle**: The UI includes a switcher to enable/disable dark mode.
